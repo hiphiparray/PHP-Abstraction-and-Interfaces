@@ -1,7 +1,7 @@
 PHP Abstraction and Interfaces
 ==============================
 
-Tutorial example for abstract classes and interfaces with PHP.
+Blog Tutorial example for abstract classes and interfaces with PHP.
 
 This code expands upon the short example from this page:
 
